@@ -1,2 +1,1 @@
-# NNPTUD_S2
-# Vào nhánh mỗi ngày để lấy code
+Trịnh Vũ Xuân Sơn - 2180608609
